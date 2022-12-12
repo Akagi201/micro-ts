@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@types/yargs": "^17.0.10",
-    "dayjs": "^1.11.4",
+    "dayjs": "^1.11.7",
     "tslib": "^2.4.0",
     "yargs": "^17.5.1"
   },
