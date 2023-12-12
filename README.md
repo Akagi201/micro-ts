@@ -15,7 +15,7 @@ Typescript Node.js backend boilerplate code
 - [x] [GitHub Actions](https://github.com/features/actions) - GitHub CI/CD
 - [x] [yargs](https://github.com/yargs/yargs) - cli parser
 - [ ] [Parcel](https://github.com/parcel-bundler/parcel) - modern JS build tool
-
+- [x] [tsx](https://github.com/privatenumber/tsx)  - directly run typescript code
 ## Install Deps
 
 ```sh
