@@ -16,6 +16,9 @@ Typescript Node.js backend boilerplate code
 - [x] [yargs](https://github.com/yargs/yargs) - cli parser
 - [ ] [Parcel](https://github.com/parcel-bundler/parcel) - modern JS build tool
 - [x] [tsx](https://github.com/privatenumber/tsx)  - directly run typescript code
+- [x] [oxc](https://github.com/oxc-project/oxc) - Rust tools for TS/JS.
+- [x] [biome](https://github.com/biomejs/biome) - Rust toolchain for the web
+
 ## Install Deps
 
 ```sh
