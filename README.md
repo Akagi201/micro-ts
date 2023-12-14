@@ -22,6 +22,7 @@ Typescript Node.js backend boilerplate code
 ## Nice docs
 
 - [Heroku node best practices](https://devcenter.heroku.com/articles/node-best-practices)
+- [Heroku gc config](https://github.com/damianmr/heroku-node-settings)
 
 ## Install Deps
 
