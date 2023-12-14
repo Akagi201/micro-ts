@@ -19,6 +19,10 @@ Typescript Node.js backend boilerplate code
 - [x] [oxc](https://github.com/oxc-project/oxc) - Rust tools for TS/JS.
 - [x] [biome](https://github.com/biomejs/biome) - Rust toolchain for the web
 
+## Nice docs
+
+- [Heroku node best practices](https://devcenter.heroku.com/articles/node-best-practices)
+
 ## Install Deps
 
 ```sh
