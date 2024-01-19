@@ -21,10 +21,10 @@
     "format": "rome format --write ."
   },
   "dependencies": {
-    "@types/yargs": "^17.0.10",
+    "@types/yargs": "^17.0.15",
     "dayjs": "^1.11.4",
     "tslib": "^2.4.0",
-    "yargs": "^17.5.1"
+    "yargs": "^17.6.2"
   },
   "devDependencies": {
     "@types/jest": "^28.1.6",
