@@ -34,6 +34,10 @@ Typescript Node.js backend boilerplate code
 npm install
 ```
 
+## Tools
+
+- [depot](https://github.com/cognitive-engineering-lab/depot) - cargo for js
+
 ## NPM Scripts
 
 - `clean`: remove coverage data, Jest cache and transpiled files
