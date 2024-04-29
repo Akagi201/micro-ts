@@ -22,6 +22,11 @@ Typescript Node.js backend boilerplate code
 ## Libs
 
 - [Drizzle ORM](https://orm.drizzle.team/)
+- [nexth](https://github.com/wslyvh/nexth) - EVM chain next.js boilerplate
+
+## Webassembly
+
+- <https://github.com/bytecodealliance/jco>
 
 ## Nice docs
 
