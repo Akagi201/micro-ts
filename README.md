@@ -23,6 +23,7 @@ Typescript Node.js backend boilerplate code
 
 - [Drizzle ORM](https://orm.drizzle.team/)
 - [nexth](https://github.com/wslyvh/nexth) - EVM chain next.js boilerplate
+- [ratelimit-js](https://github.com/upstash/ratelimit-js) - serverless ratelimit
 
 ## chrome extensions
 
