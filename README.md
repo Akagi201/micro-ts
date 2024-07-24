@@ -65,3 +65,4 @@ npm install
 - [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate)
 - [ts47-esm](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/#esm-nodejs)
 - [nodejs-esm](https://nodejs.org/docs/latest-v16.x/api/esm.html)
+- [saas-nextjs-boilerplate](https://github.com/ixartz/SaaS-Boilerplate)
