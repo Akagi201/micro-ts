@@ -24,6 +24,7 @@ Typescript Node.js backend boilerplate code
 - [Drizzle ORM](https://orm.drizzle.team/)
 - [nexth](https://github.com/wslyvh/nexth) - EVM chain next.js boilerplate
 - [ratelimit-js](https://github.com/upstash/ratelimit-js) - serverless ratelimit
+- [loop-decoder](https://github.com/3loop/loop-decoder) - transform any EVM transaction into a human-readable format
 
 ## chrome extensions
 
