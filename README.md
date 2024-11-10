@@ -26,6 +26,7 @@ Typescript Node.js backend boilerplate code
 - [ratelimit-js](https://github.com/upstash/ratelimit-js) - serverless ratelimit
 - [loop-decoder](https://github.com/3loop/loop-decoder) - transform any EVM transaction into a human-readable format
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) - pattern matching for ts
+- [oxlib](https://oxlib.sh/) - Ox Ethereum Standard Library
 
 ## chrome extensions
 
