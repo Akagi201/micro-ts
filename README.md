@@ -27,6 +27,7 @@ Typescript Node.js backend boilerplate code
 - [loop-decoder](https://github.com/3loop/loop-decoder) - transform any EVM transaction into a human-readable format
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) - pattern matching for ts
 - [oxlib](https://oxlib.sh/) - Ox Ethereum Standard Library
+- [drift](https://github.com/delvtech/drift) - ethereum client cache layer
 
 ## chrome extensions
 
