@@ -51,6 +51,7 @@ npm install
 ## Tools
 
 - [depot](https://github.com/cognitive-engineering-lab/depot) - cargo for js
+- [lexe](https://github.com/Ray-D-Song/lexe) - package your node.js application into a single exec.
 
 ## NPM Scripts
 
