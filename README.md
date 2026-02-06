@@ -52,6 +52,7 @@ npm install
 
 - [depot](https://github.com/cognitive-engineering-lab/depot) - cargo for js
 - [lexe](https://github.com/Ray-D-Song/lexe) - package your node.js application into a single exec.
+- [tsdoc](https://tsdoc.org/) - generate typescript doc
 
 ## NPM Scripts
 
